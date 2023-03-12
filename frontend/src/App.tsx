@@ -1,5 +1,6 @@
 import URLHeader from './components/URLHeaderComponent';
 import URLInputForm from './components/URLInputFormComponent';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {

@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: monospace;
+}
+
+.InputForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.InputFormCard {
+  padding: 2% 10% 2% 10%;
+  border-radius: 5%;
+}
+
+.UrlConvertButton {
+  margin-right: 5px;
+}
