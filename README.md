@@ -9,7 +9,7 @@ Make sure you have the latest version of Node.js installed on your environment.
 
 First, clone this repository to your desired directory:
 ```
-git clone https://github.com/Kureans/url_shortener_app.git
+git clone --recursive https://github.com/Kureans/url_shortener_app.git
 ```
 Then, open up 2 terminals. In one terminal, go into the backend directory and run the `nest start` command. In the other terminal, go into the frontend directory and run `npm run dev`. 
 
