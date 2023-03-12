@@ -15,9 +15,10 @@
 
 .InputFormCard {
   padding: 2% 10% 2% 10%;
-  border-radius: 5%;
+  max-width: 50vw;
 }
 
 .UrlConvertButton {
   margin-right: 5px;
+  margin-bottom: 5%;
 }
